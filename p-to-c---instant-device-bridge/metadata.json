@@ -1,0 +1,8 @@
+
+{
+  "name": "P TO C - Instant Device Bridge",
+  "description": "A seamless bridge for transferring text, photos, and files between your phone and computer, enhanced with Gemini AI for instant summaries and OCR.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
